@@ -66,12 +66,4 @@ This repository contains my personal implementations and notes for common **Data
 - [ ] Topological Sort  
 - [ ] Union-Find / Disjoint Set  
 
----
 
-## 🧩 Miscellaneous
-- [ ] Bit Manipulation  
-- [ ] Backtracking (N-Queens, Sudoku)  
-- [ ] Sliding Window Problems  
-- [ ] Two Pointer Techniques  
-
----
